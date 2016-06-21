@@ -9,5 +9,5 @@ node default {
     #type    => 'jdk'
   #}
   class {'java8': }
-  class {'scala': }
+  #class {'scala': }
 }
